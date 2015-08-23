@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week2", "Week2", "{BA2A9DB5-7E73-478B-BACE-30A58DE5BECA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Week2_1", "Week2_1\Week2_1.vcxproj", "{0A0590B2-B6FC-4EB6-BC46-841B473AFB47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0590B2-B6FC-4EB6-BC46-841B473AFB47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0A0590B2-B6FC-4EB6-BC46-841B473AFB47}.Debug|Win32.Build.0 = Debug|Win32
+		{0A0590B2-B6FC-4EB6-BC46-841B473AFB47}.Release|Win32.ActiveCfg = Release|Win32
+		{0A0590B2-B6FC-4EB6-BC46-841B473AFB47}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A0590B2-B6FC-4EB6-BC46-841B473AFB47} = {BA2A9DB5-7E73-478B-BACE-30A58DE5BECA}
+	EndGlobalSection
+EndGlobal
